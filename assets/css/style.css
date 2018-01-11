@@ -1,0 +1,91 @@
+
+
+body{
+	background-color: #dddddd;
+}
+
+#hbar{
+	background-color: #ffffff;
+	overflow: auto;
+
+
+}
+.alink {
+	float: right;
+	margin-top:20px;
+	position: relative;
+}
+
+h1{
+  background-color: #4aaaa5;
+  width: 180px;
+  float: left;
+  padding:20px;
+  margin-left: 50px;
+  text-align: center;
+  color: white;
+  font-family:  'Georgia', Times, Times New Roman, serif;
+
+}
+
+h2{
+	color: #4aaaa5;
+
+}
+
+h3{
+	color: #4aaaa5;
+}
+a {
+
+	margin-left: 10%;
+
+}
+
+p{
+	float: left;
+}
+
+.htmllinks {
+	
+}
+
+.wrapper{
+	width: 960px;
+	margin-left: auto;
+	margin: auto;
+}
+
+.content {
+	width: 650px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 50px;
+	float: left;
+	background-color: white;
+	position: relative;
+
+}
+
+.Connect{
+	background-color: white;
+	float: right;
+	position: absolute;
+	top: 81px;
+	margin-left: 20px;
+	width: 270px;
+	padding: 40px;
+	text-align: center;
+	height: 100px;
+	margin-right: 32px;
+}
+
+footer {
+	background-color: #666666;
+	text-align: center;
+	padding: 20px;
+	position: static;
+	margin-top:510px;
+	width: 100%;
+
+}
